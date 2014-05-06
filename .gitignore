@@ -12,6 +12,7 @@ logs
 results
 build
 components
+neurons
 
 node_modules
 npm-debug.log

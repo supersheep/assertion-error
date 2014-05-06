@@ -24,4 +24,12 @@
   , "devDependencies": {
         "component": "*"
     }
+  , "cortex": {
+    "dependencies": {},
+    "asyncDependencies": {},
+    "devDependencies": {
+      "neuron": "~5.0.0"
+    },
+    "scripts": {}
+  }
 }
